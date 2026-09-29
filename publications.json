@@ -1,0 +1,92 @@
+[
+  {
+    "year": 2026,
+    "type": "journal",
+    "kind": "Journal article",
+    "title": "(Re)building Cooperation: Effects of a Cognitive Intervention on Cooperative Behaviour in Games",
+    "authors": "Ismail Guennouni, Samuel Dupret, Quentin J. M. Huys, and Maarten Speekenbrink",
+    "venue": "Computational Psychiatry · 10(1), 184–201",
+    "url": "https://doi.org/10.5334/cpsy.178"
+  },
+  {
+    "year": 2026,
+    "type": "journal",
+    "kind": "Journal article",
+    "title": "The price of dark traits: strategic exploitation and its limitations in repeated interactions",
+    "authors": "Ismail Guennouni, Christoph W. Korn, and Georgia Koppe",
+    "venue": "Royal Society Open Science · 13(4), 252047",
+    "url": "https://doi.org/10.1098/rsos.252047"
+  },
+  {
+    "year": 2026,
+    "type": "preprint",
+    "kind": "Preprint",
+    "title": "Data-Driven Hierarchical Digital Twins of Social Interactions",
+    "authors": "M. Brenner, Ismail Guennouni, D. Durstewitz, S. N. L. Schmidt, S. Lis, P. Kirsch, and G. Koppe",
+    "venue": "PsyArXiv · version 2",
+    "url": "https://osf.io/preprints/psyarxiv/m6pnq_v2"
+  },
+  {
+    "year": 2025,
+    "type": "preprint",
+    "kind": "Preprint",
+    "title": "When Forgiveness Backfires: Rejection Sensitivity and Cooperative Behavior Following Exposure to Adaptive Forgiving Agents",
+    "authors": "Ismail Guennouni, Georgia Koppe, and Christoph Korn",
+    "venue": "PsyArXiv",
+    "url": "https://osf.io/preprints/psyarxiv/df5vb_v1"
+  },
+  {
+    "year": 2024,
+    "type": "conference",
+    "kind": "Conference paper",
+    "title": "Impact of Latent State Cues on Behavior in Repeated Games",
+    "authors": "Ismail Guennouni, Maarten Speekenbrink, and Kaitlyn Ng",
+    "venue": "Proceedings of the Cognitive Science Society · 46",
+    "url": "https://escholarship.org/uc/item/0065d3hc"
+  },
+  {
+    "year": 2024,
+    "type": "conference",
+    "kind": "Symposium contribution",
+    "title": "Computational Social Cognition: Approaches and challenges",
+    "authors": "Ismail Guennouni, Joseph M. Barnby, Julian Jara-Ettinger, Rebecca Saxe, and Maarten Speekenbrink",
+    "venue": "Proceedings of the Cognitive Science Society · 46",
+    "url": "https://escholarship.org/uc/item/7930b0r3"
+  },
+  {
+    "year": 2023,
+    "type": "journal",
+    "kind": "Journal article",
+    "title": "Fatigue outcomes following COVID-19: a systematic review and meta-analysis",
+    "authors": "K. Poole-Wright, Ismail Guennouni, O. Sterry, R. A. Evans, F. Gaughran, and T. Chalder",
+    "venue": "BMJ Open · 13(4), e063969",
+    "url": "https://doi.org/10.1136/bmjopen-2022-063969"
+  },
+  {
+    "year": 2023,
+    "type": "thesis",
+    "kind": "Doctoral thesis",
+    "title": "Strategic Inference in Social Interaction: An Experimental and Computational Account",
+    "authors": "Ismail Guennouni",
+    "venue": "University College London",
+    "url": "https://discovery.ucl.ac.uk/id/eprint/10168000/"
+  },
+  {
+    "year": 2022,
+    "type": "journal",
+    "kind": "Journal article",
+    "title": "Transfer of Learned Opponent Models in Zero Sum Games",
+    "authors": "Ismail Guennouni and Maarten Speekenbrink",
+    "venue": "Computational Brain & Behavior · 5(3), 326–342",
+    "url": "https://doi.org/10.1007/s42113-022-00133-6"
+  },
+  {
+    "year": 2021,
+    "type": "conference",
+    "kind": "Conference paper",
+    "title": "Transfer of learned opponent models in repeated games",
+    "authors": "Ismail Guennouni and Maarten Speekenbrink",
+    "venue": "Proceedings of the Cognitive Science Society · 43",
+    "url": "https://escholarship.org/uc/item/23b2h05g"
+  }
+]
